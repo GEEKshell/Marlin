@@ -1,4 +1,4 @@
-# Marlin-2.0.5.4 BLTouch
+# Marlin-2.0.5.4
 
 Archivos de configuración de Marlin 2.0.5.4 configurado para una Ender 3 con los siguientes cambios:
 
